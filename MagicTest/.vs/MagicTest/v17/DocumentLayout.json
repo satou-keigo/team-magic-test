@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\team-magic-test\\MagicTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F211AFCC-0981-4C4F-B1C5-9A1193B608E1}|MagicTest\\MagicTest.vcxproj|C:\\team-magic-test\\MagicTest\\MagicTest\\Kanda_Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F211AFCC-0981-4C4F-B1C5-9A1193B608E1}|MagicTest\\MagicTest.vcxproj|solutionrelative:MagicTest\\Kanda_Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F211AFCC-0981-4C4F-B1C5-9A1193B608E1}|MagicTest\\MagicTest.vcxproj|C:\\team-magic-test\\MagicTest\\MagicTest\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F211AFCC-0981-4C4F-B1C5-9A1193B608E1}|MagicTest\\MagicTest.vcxproj|solutionrelative:MagicTest\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F211AFCC-0981-4C4F-B1C5-9A1193B608E1}|MagicTest\\MagicTest.vcxproj|C:\\team-magic-test\\MagicTest\\MagicTest\\Kanda_Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F211AFCC-0981-4C4F-B1C5-9A1193B608E1}|MagicTest\\MagicTest.vcxproj|solutionrelative:MagicTest\\Kanda_Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kanda_Test.h",
+              "DocumentMoniker": "C:\\team-magic-test\\MagicTest\\MagicTest\\Kanda_Test.h",
+              "RelativeDocumentMoniker": "MagicTest\\Kanda_Test.h",
+              "ToolTip": "C:\\team-magic-test\\MagicTest\\MagicTest\\Kanda_Test.h",
+              "RelativeToolTip": "MagicTest\\Kanda_Test.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-12T04:12:22.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Kanda_Test.cpp",
+              "DocumentMoniker": "C:\\team-magic-test\\MagicTest\\MagicTest\\Kanda_Test.cpp",
+              "RelativeDocumentMoniker": "MagicTest\\Kanda_Test.cpp",
+              "ToolTip": "C:\\team-magic-test\\MagicTest\\MagicTest\\Kanda_Test.cpp",
+              "RelativeToolTip": "MagicTest\\Kanda_Test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T04:12:08.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\team-magic-test\\MagicTest\\MagicTest\\Main.cpp",
               "RelativeDocumentMoniker": "MagicTest\\Main.cpp",
               "ToolTip": "C:\\team-magic-test\\MagicTest\\MagicTest\\Main.cpp",
               "RelativeToolTip": "MagicTest\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-12T04:07:31.027Z",
               "EditorCaption": ""

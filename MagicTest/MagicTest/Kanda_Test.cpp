@@ -1,5 +1,5 @@
-#include"Kanda_Test.h"
+ï»¿#include"Kanda_Test.h"
 void Kanda::Print() 
 {
-	std::cout << "‚±‚ñ‚É‚¿‚ÍIIby_“c\n";
+	std::cout << "ã“ã‚“ã«ã¡ã¯ï¼ï¼byç¥žç”° \n";
 }

@@ -1,6 +1,6 @@
 #pragma once
 #include<iostream>
-
+// ŒÂlƒNƒ‰ƒX
 class Kanda
 {
 private:

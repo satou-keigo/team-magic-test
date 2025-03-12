@@ -1,17 +1,18 @@
-#include<iostream>
-// ƒwƒbƒ_[ƒtƒ@ƒCƒ‹‚Ì“Ç‚İ‚İ
+ï»¿#include<iostream>
+// ãƒ˜ãƒƒãƒ€ãƒ¼ãƒ•ã‚¡ã‚¤ãƒ«ã®èª­ã¿è¾¼ã¿
 #include"Kanda_Test.h"
 
 int main()
 {
-	// ƒNƒ‰ƒX‚Ì’è‹`
+	// ã‚¯ãƒ©ã‚¹ã®å®šç¾©
 
 	Kanda kanda;
 
-	// ƒƒ\ƒbƒh‚ÌÀ‘•
+	// ãƒ¡ã‚½ãƒƒãƒ‰ã®å®Ÿè£…
 
 	kanda.Print();
 
 	system("pause");
+
 	return 0;
 }

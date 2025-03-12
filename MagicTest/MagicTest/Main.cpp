@@ -1,7 +1,7 @@
 ﻿#include<iostream>
 // ヘッダーファイルの読み込み
 #include"Kanda_Test.h"
-
+using namespace std;
 int main()
 {
 	// クラスの定義
@@ -15,4 +15,9 @@ int main()
 	system("pause");
 
 	return 0;
+}
+
+void text()
+{
+	cout << "Hallo World" << endl;
 }

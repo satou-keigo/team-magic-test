@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\team-magic-test\\MagicTest\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\raimu\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\team-magic-test\\MagicTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F211AFCC-0981-4C4F-B1C5-9A1193B608E1}|MagicTest\\MagicTest.vcxproj|C:\\Users\\raimu\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\team-magic-test\\MagicTest\\MagicTest\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F211AFCC-0981-4C4F-B1C5-9A1193B608E1}|MagicTest\\MagicTest.vcxproj|solutionrelative:MagicTest\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F211AFCC-0981-4C4F-B1C5-9A1193B608E1}|MagicTest\\MagicTest.vcxproj|C:\\Users\\raimu\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\team-magic-test\\MagicTest\\MagicTest\\Kanda_Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F211AFCC-0981-4C4F-B1C5-9A1193B608E1}|MagicTest\\MagicTest.vcxproj|solutionrelative:MagicTest\\Kanda_Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\raimu\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\team-magic-test\\MagicTest\\MagicTest\\Main.cpp",
+              "RelativeDocumentMoniker": "MagicTest\\Main.cpp",
+              "ToolTip": "C:\\Users\\raimu\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\team-magic-test\\MagicTest\\MagicTest\\Main.cpp*",
+              "RelativeToolTip": "MagicTest\\Main.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T05:06:25.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kanda_Test.cpp",
+              "DocumentMoniker": "C:\\Users\\raimu\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\team-magic-test\\MagicTest\\MagicTest\\Kanda_Test.cpp",
+              "RelativeDocumentMoniker": "MagicTest\\Kanda_Test.cpp",
+              "ToolTip": "C:\\Users\\raimu\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\team-magic-test\\MagicTest\\MagicTest\\Kanda_Test.cpp",
+              "RelativeToolTip": "MagicTest\\Kanda_Test.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T05:06:22.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

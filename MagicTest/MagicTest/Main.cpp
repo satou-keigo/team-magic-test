@@ -14,5 +14,5 @@ int main()
 
 	system("pause");
 
-	return 0;
+	return 0;//特にここにコメントを書き残した意味はないよ。byもりもと
 }
